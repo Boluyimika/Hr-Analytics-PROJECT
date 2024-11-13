@@ -1,0 +1,30 @@
+1. Tell us about yourself
+    I recently graduated with a degree in Physiology, where I developed a strong analytical mindset and problem-solving skills. During my service year, I discovered my passion for data analysis and took online courses to build my skills in Python, SQL, and data analysis. After my service year, I attended a physical class to further upskill and apply these techniques practically. I’ve worked on projects analyzing large datasets, and I’m eager to bring my analytical skills and passion for technology to Snapnet, where I can continue to grow and contribute.
+
+2. Why do you want to work at Snapnet?
+    Snapnet's reputation as a leading IT solutions company attracted me, particularly its commitment to innovation and growth in the tech space. I am drawn to the collaborative work culture and the focus on training and development for graduate trainees. I am excited to contribute my skills while learning from experts in the field.
+
+3. What skills can you bring to this role?
+     I bring a solid foundation in Python, SQL, and data analysis. I’ve worked on analyzing YouTube data analytics pages using the YouTube API, where I ranked channels based on followers and engagement metrics. Additionally, I analyzed British Airways datasets to identify trends and insights related to flight operations and customer behavior. These projects enhanced my ability to work with large datasets, extract meaningful insights, and present data-driven recommendations. I also have strong problem-solving abilities, excellent communication skills, and a quick learning ability, which are essential for this role.
+
+4.Describe a challenge you’ve faced and how you handled it
+During a group project at the training school, our team struggled to meet deadlines due to conflicting schedules and lack of coordination. I took the initiative to assign roles based on each team member's strengths and facilitated better communication. This helped streamline our workflow, and we were able to complete the project successfully and on time, receiving positive feedback from our instructor.
+
+5. Where do you see yourself in 5 years?
+In five years, I see myself growing within Snapnet, taking on more responsibilities and advancing in a role such as a Solutions Architect or Data Analyst. I want to continuously develop my technical and leadership skills, contributing to innovative projects and helping the company achieve its goals.
+
+6.How do you stay updated with industry trends?
+I stay updated by regularly reading tech blogs, attending webinars, and following thought leaders on platforms like LinkedIn. I also take online courses to continuously enhance my skills, such as learning about new data analytics tools.
+
+7. What do you know about Snapnet’s products/services?
+Snapnet is known for its IT consulting and solutions, offering services such as cybersecurity, cloud services, business intelligence, and software development. I am particularly impressed by your cloud offerings and how you help businesses migrate and optimize their operations using cloud technologies
+
+8.How do you handle working under pressure?
+I handle pressure by staying organized and prioritizing tasks. When faced with tight deadlines, I break down the task into smaller, manageable parts and focus on completing each one efficiently. I also remain calm and communicate with my team or supervisor to ensure we are aligned on priorities
+
+9. Give an example of how you’ve worked as part of a team.
+Answer:
+In my final year, I worked in a team to develop a web application that helped students manage their coursework. We collaborated closely using tools like GitHub for version control and held regular meetings to ensure everyone was on the same page. My role was to develop the front-end interface, and I ensured that it was responsive and user-friendly. The project was successful, and we presented it at a university showcase.
+
+10.Why should we hire you for this Graduate Trainee role?
+I have the technical skills and the passion for learning required for this role. I am highly motivated to succeed, and I am confident that my ability to adapt quickly will enable me to contribute positively to Snapnet. I am eager to learn from the team and apply my knowledge to solve real-world challenges
