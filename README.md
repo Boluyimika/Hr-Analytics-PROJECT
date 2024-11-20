@@ -1,5 +1,20 @@
 # HR Analytics Project
 
+## Table of Content
+1. [Introduction](#Introduction)
+2. [Objectives](#Objectives)
+3.  [Data_Overview](#Data_Overview)
+4.  [Tools_Used](#Tools_Used)
+5.  [Data_loading_and_preprocesing](#Data_loading_and_preprocesing)
+6.  [Data_cleaning&Exploration_data_analysis](#Data_cleaning&Exploration_data_analysis)
+7.  [visualizations](#visualizations)
+8.  [Analysis](#Analysis)
+9.  [Recommendations](#Recommendations)
+
+ 
+ 
+
+
 ## Introduction
 
 This project focuses on analyzing HR data to gain insights into various aspects of employee demographics, behaviors, and trends within an organization. 
@@ -8,7 +23,7 @@ The goal is to utilize the data to understand key factors affecting employee tur
 ## Objectives
 To develop HR strategies that address workload imbalances, support diversity and inclusion, and enhance well-being programs to meet the needs of employees with varied personal and professional backgrounds.
 
-## Data Overview
+## Data_Overview
 
 The dataset used in this project is a CSV file named HR Analytics Data.csv, which contains the following columns:
 
@@ -28,22 +43,25 @@ The dataset used in this project is a CSV file named HR Analytics Data.csv, whic
 - EmployeeCount
 - EmployeeNumber
 
-## Tools Used 
+## Tools_Used 
 The analysis is conducted using Python leveraging libraries such as 
 - pandas
 - matplotlib
 - seaborn for data manipulation and visualization.
 
 
-## Data loading and preprocesing
+## Data_loading_and_preprocesing
 ![Data loading](https://github.com/Boluyimika/Hr-Analytics-PROJECT/blob/main/Data_Loading.png?raw=true)
 ---
-## Data cleaning & Exploration data analysis
+## Data_cleaning&Exploration_data_analysis
 ![Data Exploration](https://github.com/Boluyimika/Hr-Analytics-PROJECT/blob/main/Data%20Cleaning&%20Exploration.png?raw=true)
 
 ## visualizations
 ![Chart](https://github.com/Boluyimika/Hr-Analytics-PROJECT/blob/main/plot_distribution%201.png?raw=true)
 ---
+## Analysis
+
+
 ### Distribution of Age
 **Analysis**: The age distribution appears to be somewhat skewed towards younger ages, with a peak around the early 30s and a gradual decline after age 40.
 
